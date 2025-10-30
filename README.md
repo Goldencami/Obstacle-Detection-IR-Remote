@@ -13,4 +13,4 @@ If an obstacle happens to be detected, at a predetermined distance, the system l
 A photoresistor was used as a smart room light by lighting the green LED according to the luminosity it receives. The less light it receives, the more power the green LED receives.
 
 ## LCD Screen
-An LCD screen was used as a visual representation to display the distance, the instance of the luminosity and combined with the IR Remote to simulate changing screens.
+An LCD screen was used as a visual representation to display the distance, the intensity of the luminosity and combined with the IR Remote to simulate changing screens.
