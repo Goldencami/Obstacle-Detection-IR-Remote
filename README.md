@@ -15,5 +15,8 @@ A photoresistor was used as a smart room light by lighting the green LED accordi
 ## LCD Screen
 An LCD screen was used as a visual representation to display the distance, the intensity of the luminosity and combined with the IR Remote to simulate changing screens.
 
+## Circuit
+<img width="1433" height="814" alt="Image" src="https://github.com/user-attachments/assets/028eddc6-fc2c-4463-8f73-871a83321520" />
+
 ## Demo Video
 https://github.com/user-attachments/assets/cf0a05ec-2b35-4497-bc21-bf849099a7ee
